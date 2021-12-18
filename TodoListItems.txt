@@ -1,0 +1,3 @@
+Factory design	Watch the video on factory design pattern by Derek Banas.	24-12-2021
+Leetcode	Complete leetcode daily challenge.	18-12-2021
+Gift	Buy birthday gift for John. (deadline has already passed for this task)	16-12-2021
