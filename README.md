@@ -1,6 +1,6 @@
 # javafx-tasks-app
 
-Yeah, another to do app. Sorry...
+Yeah, another to do app. Sorry... </br>
 Developed using JavaFX framework and MVC pattern.
 
 1) Download and install JavaFX dependencies from https://gluonhq.com/products/javafx/
